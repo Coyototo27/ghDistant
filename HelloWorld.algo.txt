@@ -11,5 +11,6 @@ Algo HelloWorld {
 	// Finalisation
 	Ajouter le lable sur la fenetre
 	Afficher la fenêtre
+	cette modif est faite en local
 }
 }
